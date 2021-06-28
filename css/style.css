@@ -873,7 +873,7 @@ hr{
 
 .team-member .member-img .social {
 	position: absolute;
-	top: 50%;
+	top: 30%;
 	left: 0;
 	margin-top: -20px;
 	z-index: 10;
@@ -896,11 +896,11 @@ hr{
 }
 	
 .member-img .social a i {
-	width: 45px;
-	height: 45px;
+	width: 40px;
+	height: 40px;
 	font-size: 16px;
 	color: #fff;
-	line-height: 45px;
+	line-height: 40px;
 }
 
 .team-member h3{
